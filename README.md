@@ -6,3 +6,4 @@
 - Adidas 4D
 - New Balance WL574Z
 - New Adilance
+- Monofin
