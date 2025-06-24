@@ -15,3 +15,4 @@
 - Yuta Watanabe
 - KENSHI SUGIYA!!!
 - Kei Nishikori
+- Kawhi Leonard
