@@ -2,3 +2,4 @@
 
 # List of shopping
 Macbook ￥330,000
+PC  ￥300,000
