@@ -10,3 +10,4 @@ List of place
 - Okinawa
 - Yamanashi
 - Aichi
+- Wakayama
