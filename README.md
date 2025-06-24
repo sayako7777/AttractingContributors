@@ -1,6 +1,6 @@
 # Who is your favorite professional sport player.
 
-# List of place
+# List of player
 - Shohei Ohtani
 - Shuzo Matsuoka
 - Lionel Messi
