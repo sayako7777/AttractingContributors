@@ -8,3 +8,4 @@ List of place
 - Oita
 - Kagoshima
 - Okinawa
+- Yamanashi
