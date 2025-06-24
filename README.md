@@ -6,4 +6,7 @@ List of place
 - Tokyo
 - Saga
 - Oita
+- Kagoshima
+- Okinawa
+- Yamanashi
 - Aichi
