@@ -7,3 +7,4 @@ List of place
 - Saga
 - Oita
 - Kagoshima
+- Mie
