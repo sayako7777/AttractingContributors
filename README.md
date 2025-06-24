@@ -7,4 +7,7 @@ List of place
 - Saga
 - Oita
 - Kagoshima
+- Okinawa
+- Yamanashi
+- Aichi
 - Wakayama
