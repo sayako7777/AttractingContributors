@@ -7,9 +7,9 @@
 - Michael Jordan
 - Hayato Sakamoto
 - Yutaka Take
+- Yuuki Ishikawa
+- Ichiro
+- Rui Hachimura
 - Yoshiya Uzatsuyo
-- 
-- 
-- 
 - 
 - 
