@@ -13,3 +13,4 @@ List of place
 - Yamanashi
 - Aichi
 - Wakayama
+- Mie
