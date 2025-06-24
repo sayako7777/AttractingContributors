@@ -5,4 +5,4 @@
 - Nike Air Max 90 Lv8
 - Adidas 4D
 - New Balance WL574Z
-- New Balance 990 v5
+- New Adilance
