@@ -10,6 +10,6 @@
 - Yuuki Ishikawa
 - Ichiro
 - Rui Hachimura
-- 
+- Yoshiya Uzatsuyo
 - 
 - 
