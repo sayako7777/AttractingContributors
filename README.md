@@ -7,7 +7,7 @@
 - Michael Jordan
 - Hayato Sakamoto
 - Yutaka Take
-- 
+- Rui Hachimura
 - 
 - 
 - 
