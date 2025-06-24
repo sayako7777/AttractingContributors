@@ -5,3 +5,4 @@ Macbook ￥330,000
 Trumpet ￥300,000
 Desktop PC ￥180,000
 Car ￥1,400,000
+Dell Inspiron
