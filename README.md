@@ -6,3 +6,4 @@ List of place
 - Tokyo
 - Saga
 - Oita
+- Aichi
