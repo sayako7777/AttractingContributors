@@ -13,3 +13,4 @@
 - Yoshiya Uzatsuyo
 - Jude Bellingham
 - Yuta Watanabe
+- KENSHI SUGIYA!!!
