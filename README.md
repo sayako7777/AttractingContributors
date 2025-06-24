@@ -11,5 +11,5 @@
 - Ichiro
 - Rui Hachimura
 - Yoshiya Uzatsuyo
-- 
+- Jude Bellingham
 - 
