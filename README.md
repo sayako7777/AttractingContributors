@@ -9,7 +9,7 @@
 - Yutaka Take
 - Yuuki Ishikawa
 - Ichiro
-- 
+- Rui Hachimura
 - 
 - 
 - 
