@@ -12,4 +12,4 @@
 - Rui Hachimura
 - Yoshiya Uzatsuyo
 - Jude Bellingham
-- 
+- Yuta Watanabe
