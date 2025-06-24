@@ -7,3 +7,4 @@
 - New Balance WL574Z
 - New Adilance
 - Monofin
+- Nike Structure 25
