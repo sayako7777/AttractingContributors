@@ -14,3 +14,4 @@ List of place
 - Aichi
 - Wakayama
 - Mie
+- Tokyo
