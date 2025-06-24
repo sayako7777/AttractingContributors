@@ -9,3 +9,4 @@ List of place
 - Kagoshima
 - Okinawa
 - Yamanashi
+- Aichi
