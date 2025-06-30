@@ -10,4 +10,5 @@
 - Australia for diving.
 - Italy to explore its history and cuisine.
 - IceIsland to see aurora.
-- Gartang Gali, Uttarakhand, India. 
+- Gartang Gali, Uttarakhand, India.
+- Go to Hokkaido to see the snow
