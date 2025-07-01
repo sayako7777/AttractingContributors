@@ -11,4 +11,5 @@
 - Italy to explore its history and cuisine.
 - IceIsland to see aurora.
 - Gartang Gali, Uttarakhand, India.
+- Machu Picchu
 - New Zealand to see kiwi.
